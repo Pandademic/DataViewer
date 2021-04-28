@@ -1,2 +1,2 @@
 # DataViewer
-A python
+A python data viewer and sorter
