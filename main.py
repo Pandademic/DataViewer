@@ -12,4 +12,4 @@ class derive:
         av=calc/5
         print("average:"+ av)
 derive=derive()
-derive.averge(10,10,10,10,10#Not compling.Line that needs to be fixed?
+derive.averge(10,10,10,10,10)#AVG fail
