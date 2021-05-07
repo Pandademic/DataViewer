@@ -13,5 +13,6 @@ data viewer is a open source data editor and viewer.
 - numpy
 - pandas
 
+*for the app*
 ## Credits
 - @pandademic
