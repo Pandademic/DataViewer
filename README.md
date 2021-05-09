@@ -1,20 +1,17 @@
 # Data viewer
-
-## what is Data viewer?
-<br>
+<hr>
+##  what is Data viewer
 data viewer is a open source data editor and viewer.
 
 ## Data viewer functions
-- at the moment we have barely any but plans are available soon!Were majorly working on a GUI more than anything
+- at the moment we have barley any but plans are available soon!We are working on a Gui and charting.
 
 ## what are the dependenices?
 ### Data viewer uses:
 - Turtle
 - numpy
 - pandas
-- appJar(https://github.com/jarvisteach/appJar)
-- Tkinter
-
-*for the app*
+-appjar
+-tkinter
 ## Credits
 - @pandademic
