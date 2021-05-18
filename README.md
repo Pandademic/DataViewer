@@ -14,5 +14,6 @@ data viewer is a open source data editor and viewer.
 - numpy
 - pandas
 - tkinter
+- Klink
 ## Credits
 - @pandademic
