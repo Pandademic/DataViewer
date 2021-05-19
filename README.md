@@ -17,4 +17,4 @@ data viewer is a open source data editor and viewer.
 - Klink
 ## Credits
 - @pandademic
--@SmurfyDurfy
+- @SmurfyDurfy
