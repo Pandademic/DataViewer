@@ -1,12 +1,23 @@
 #importing
-#import pandas as pd
 #import numpy as np
-import tkinter as tk
+#import pandas as pd
+#FIXME:ERR:#8,#9
+from appJar import gui
+import statistics
+import random
+import os
+import sys
+#TODO: document all new dependencies
 #app settings
-app=tk.Tk()
-app.geometery="500x800"
-app.title("Data Viewer")
+app = gui("Data Viewer","600x600")
 #app
 
+
+#functions
+
 #app run
-app.mainloop()
+app.go()
+
+
+
+#TODO:fix app icon
