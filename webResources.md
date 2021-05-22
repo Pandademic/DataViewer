@@ -1,3 +1,0 @@
-# Web resources
-<hr>
-- Vivify
