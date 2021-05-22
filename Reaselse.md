@@ -1,8 +1,9 @@
 # pre release 1.0 Alpha
-<hr>
+____
 ## updates
-- still no GUI
-- updated requirements and encrypt
 - add editing capability
 - added sources.txt
-- fixed repo ref for "series.edit"
+
+
+# MADE on 5/22/21
+#### this is a remake
