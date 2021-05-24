@@ -13,7 +13,7 @@ data viewer is a open source data editor and viewer.
 - Turtle
 - numpy
 - pandas
-- tkinter
+- [AppJar](https://github.com/jarvisteach/appJar)
 - Klink
 ## Credits
 - @pandademic
