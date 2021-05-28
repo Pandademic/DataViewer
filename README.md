@@ -15,6 +15,11 @@ data viewer is a open source data editor and viewer.
 - pandas
 - [AppJar](https://github.com/jarvisteach/appJar)
 - Klink
+- statistics
+- random
+- os
+- sys
+- matplotlib
 ## Credits
 - @pandademic
 - @SmurfyDurfy
