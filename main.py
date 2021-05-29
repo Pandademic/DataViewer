@@ -11,7 +11,9 @@ import sys
 #app settings
 app = gui("Data Viewer","600x600")
 #app
-
+app.addDirectoryEntry("load a file")
+filename=app.getEntery("file")
+file=open(file,"w")
 
 #functions
 
