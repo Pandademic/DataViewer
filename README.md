@@ -1,5 +1,5 @@
 # Data viewer
-<img src="https://img.shields.io/github/contributors/Pandademic/DataViewer">
+<img src="https://img.shields.io/github/contributors/Pandademic/DataViewer"></img>
 _____
 ##  what is Data viewer
 data viewer is a open source data editor and viewer.
