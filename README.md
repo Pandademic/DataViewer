@@ -28,7 +28,7 @@ Download the main.py file and run it.YOU MUST HAVE PYTHON INSTALLED
 
 ## What are we working on
 _____
-A CLI in ruby for data Viewer
+A CLI in ruby for data Viewer and a better GUI for the app.
 
 ## NOTES
 ___
