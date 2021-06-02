@@ -28,6 +28,9 @@ Download the main.py file and run it.YOU MUST HAVE PYTHON INSTALLED
 _____
 A CLI in ruby for data Viewer
 
+## NOTES
+___
+It does nothing on macos.Why?It uses a bunch of batchfiles.I am thinking of making .command files if I really need to
 ## Credits
 ___
 - @pandademic
