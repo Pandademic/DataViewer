@@ -6,10 +6,11 @@ data viewer is a open source data editor and viewer.
 ## Data viewer functions
 - sorting
 - editing
--  listing
+- listing
 
 ## what are the dependenices?
-### Data viewer uses:
+____
+### Data viewer uses These Python Libaries:
 - Turtle
 - numpy
 - pandas
@@ -19,6 +20,15 @@ data viewer is a open source data editor and viewer.
 - os
 - sys
 - matplotlib
+## Installing Dataviewer
+____
+Download the main.py file and run it.YOU MUST HAVE PYTHON INSTALLED
+
+## What are we working on
+_____
+A CLI in ruby for data Viewer
+
 ## Credits
+___
 - @pandademic
 - @SmurfyDurfy
