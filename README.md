@@ -32,3 +32,4 @@ A CLI in ruby for data Viewer
 ___
 - @pandademic
 - @SmurfyDurfy
+- @rohangrge (Rohan George)
