@@ -1,6 +1,6 @@
 Turtle=??
 numpy=1.20.3
-pandas=??
+pandas=1.2.4
 AppJar=??
 statistics=??
 random=??
