@@ -34,7 +34,7 @@ A CLI in ruby for data Viewer and a better GUI for the app.
 
 ## NOTES
 ___
-It does nothing on macos.Why?It uses a bunch of batchfiles.I am thinking of making .command files if I really need to
+It is untetested on MacOS.Its possible It works as of the removal of Klink
 ## Credits
 ___
 - @pandademic
