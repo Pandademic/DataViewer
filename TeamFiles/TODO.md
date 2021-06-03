@@ -6,4 +6,4 @@ ____
 - Document
 - Document some more
 - Update readme
-- !_! Lots of tasks
+- (!_!) Lots of tasks
