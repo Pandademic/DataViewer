@@ -1,4 +1,4 @@
-Turtle=??
+Turtle=0.3.2
 numpy=1.20.3
 pandas=1.2.4
 AppJar=??
@@ -7,4 +7,3 @@ random=??
 os=??
 sys=??
 matplotlib=??
-THIS IS UNFINISHED
