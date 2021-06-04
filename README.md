@@ -5,8 +5,7 @@
 <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/Pandademic/DataViewer/main"></img>
 _____
 ##  what is Data viewer
-
-> _:warning_  The note content.
+> **_NOTE:_**  V1 is coming soon.
 data viewer is a open source data editor and viewer.
 ## Data viewer functions
 - sorting
