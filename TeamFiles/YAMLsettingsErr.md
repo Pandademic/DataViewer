@@ -1,3 +1,4 @@
+[OLD] as of new we have 3.24 rated code
 2s
 Run pylint `ls -R|grep .py$|xargs`
 ************* Module AppJarTest
@@ -33,4 +34,4 @@ main.py:8:0: C0411: standard import "import sys" should be placed before "import
 ------------------------------------
 Your code has been rated at -1.59/10
 
-Error: Process completed with exit code 30.
+Error: Process completed with exit code 30
