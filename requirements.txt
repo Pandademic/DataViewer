@@ -1,7 +1,7 @@
 Turtle=0.3.2
 numpy=1.20.3
 pandas=1.2.4
-AppJar=??
+AppJar=0.94 
 statistics=??
 random=??
 os=??
