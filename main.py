@@ -1,12 +1,13 @@
 #importing
-import pandas as pd 
-import numpy as np
+#import statistics
+#import random
+#import os
+#import sys
+#import pandas as pd 
+#import numpy as np
 from appJar import gui
-import statistics
-import random
-import os
-import sys
-import matplotlib as plt
+#import matplotlib as plt
+#Hashed as they are unused
 import yaml
 with open("settings.yaml", 'r') as stream:
     try:
