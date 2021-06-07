@@ -1,1 +1,2 @@
-Useless stuff for the development team
+Useless stuff for the development team.
+TODOS are here
