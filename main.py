@@ -3,7 +3,8 @@
 #import random
 #import os
 #import sys
-#import pandas as pd 
+from typing import Text
+import pandas as pd 
 #import numpy as np
 from appJar import gui
 #import matplotlib as plt
@@ -15,19 +16,19 @@ with open("settings.yaml", 'r') as stream:
     except yaml.YAMLError as exc:
         print(exc)
 #Functions
-
+def makeDataframe():
+     print("Making a dataframe")
+     file={'col1':[1,2],'colo2:':[3,4]}
+     Dataframe=pd.DataFrame(data=file)
+     print(Dataframe)
 #app initilization
 app = gui("Data Viewer","600x600")
 # app
-app.addLabel("Enter The data viewer Directory Path:")
-app.addDirectoryEntry("file")
-filename = app.getEntry("file")
-file = open(str(filename), "w")
-app.addLabel("Enter the file you want to read:")
-app.addFileEntry("f1")
-
+makeDataframe()
 #app run
 app.go()
+
+
 
 
 
