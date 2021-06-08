@@ -4,7 +4,7 @@ updates:
     directory: "/" 
     schedule:
       interval: "daily"
-      time: "16:15"
+      time: "4:25"
     labels:
       - "Documentation"
 
