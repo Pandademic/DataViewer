@@ -9,5 +9,10 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+      time: "12:30"
+    reviewers:
+     - "Pandademic"
+     labels:
+      - "Documentation"
 
     
