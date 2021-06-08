@@ -5,9 +5,7 @@ updates:
     schedule:
       interval: "daily"
       time: "12:30"
-    reviewers:
-     - "Pandademic"
-     labels:
+    labels:
       - "Documentation"
 
     
