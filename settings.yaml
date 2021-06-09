@@ -1,11 +1,13 @@
 Name: "Data Viewer"
-version: 0.1
-Nightly: "True"
-Github: "True"
-Stable: " False"
-Enabled: "False"
+Liscence: "GNU public 3"
+version: 0.01
+Nightly: True
+Github: True
+Stable:  False
+Enabled: False
 Theme : "Default"
-Warnings: 
+Warnings:
   - "1:This is unstable"
 key: "PotatoBannanaApple"
 Finished: "False"
+DEV: True
