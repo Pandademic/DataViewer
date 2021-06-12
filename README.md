@@ -35,7 +35,7 @@ A CLI in  for data Viewer and a better GUI for the app.Also adding in Pandas fun
 
 ## NOTES
 ___
-It is untetested on MacOS.Its possible It works as of the removal of Klink
+It is untetested on MacOS.Its possible It works as of the removal of Klink.99% it does
 ## Credits
 ___
 - @pandademic
