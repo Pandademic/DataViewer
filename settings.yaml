@@ -1,6 +1,4 @@
 Name: "Data Viewer"
-Liscence: "GNU public 3"
-version: 0.01
 Nightly: True
 Github: True
 Stable:  False
@@ -9,5 +7,3 @@ Theme : "Default"
 Warnings:
   - "1:This is unstable"
 key: "PotatoBannanaAppleXD"
-Finished: "False"
-DEVELOP: True
