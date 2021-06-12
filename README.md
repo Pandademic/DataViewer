@@ -3,6 +3,7 @@
 <img src="https://img.shields.io/github/workflow/status/Pandademic/DataViewer/CodeQL"></img>
 <img src="https://img.shields.io/github/last-commit/Pandademic/DataViewer"></img>
 <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/Pandademic/DataViewer/main"></img>
+<img src="https://www.travis-ci.com/Pandademic/DataViewer.svg?branch=main"></img>
 <img src="https://img.shields.io/badge/Works-yes-green"></img>
 _____
 ##  what is Data viewer
@@ -34,7 +35,7 @@ A CLI in  for data Viewer and a better GUI for the app.Also adding in Pandas fun
 
 ## NOTES
 ___
-It is untetested on MacOS.Its possible It works as of the removal of Klink
+It is untetested on MacOS.Its possible It works as of the removal of Klink.99% it does
 ## Credits
 ___
 - @pandademic
