@@ -1,9 +1,4 @@
-Turtle==0.0.2
 numpy==1.20.3
 pandas==1.2.4
 AppJar==0.94 
-statistics==??
-random==??
-os==??
-sys==??
 matplotlib==3.4.1 
