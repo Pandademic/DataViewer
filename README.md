@@ -31,7 +31,7 @@ Download the main.py file and run it.YOU MUST HAVE PYTHON INSTALLED
 
 ## What are we working on
 _____
-Moving the app into Tkinter.
+Adding genrated data in to the results page of the app
 ## NOTES
 ___
 It is untetested on MacOS.Its possible It works as of the removal of Klink.99% it does
