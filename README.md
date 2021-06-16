@@ -31,7 +31,7 @@ Download the main.py file and run it.YOU MUST HAVE PYTHON INSTALLED
 
 ## What are we working on
 _____
-A CLI in  for data Viewer and a better GUI for the app.Also adding in Pandas function to anylse your data.We are working on the realses for version 0.1;
+A CLI in  for data Viewer and a better GUI for the app.Also adding in Pandas function to anylse your data.We are working on the realses for version 1;
 
 ## NOTES
 ___
