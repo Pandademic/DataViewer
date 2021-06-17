@@ -34,7 +34,8 @@ _____
 Adding genrated data in to the results page of the app
 ## NOTES
 ___
-It is untetested on MacOS.Its possible It works as of the removal of Klink.99% it does
+It is untetested on MacOS.Its possible It works as of the removal of Klink.99% it does.
+We have migrated to Tkinter
 ## Credits
 ___
 - @pandademic
