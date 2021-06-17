@@ -1,4 +1,3 @@
 numpy==1.20.3
 pandas==1.2.4
-AppJar==0.94 
 matplotlib==3.4.2 
