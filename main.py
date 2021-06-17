@@ -32,7 +32,7 @@ tabControl.add(tab3, text='info')
 tabControl.pack(expand=1, fill="both")
 ttk.Label(tab1, text=yaml.load(SettingsFile)).grid(column=0, row=0, padx=30, pady=30)
 ttk.Label(tab3, text=yaml.load(ProjectFile)).grid(column=0, row=0, padx=30, pady=30)
-ttk.Label(tab2, text="Lets dive into the world of computers").grid(column=0, row=0, padx=30, pady=30)
+ttk.Label(tab2, text="{DATA NOT LOADED}").grid(column=0, row=0, padx=30, pady=30)
 root.mainloop() 
 
 # app
