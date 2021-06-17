@@ -1,11 +1,11 @@
 # Validator: https://dependabot.com/docs/config-file-beta/validator/
 version: 2
 updates:
-  # node packages
+  # pip packages
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     commit-message:
       prefix: "Beep Bop"
       include: "scope"
