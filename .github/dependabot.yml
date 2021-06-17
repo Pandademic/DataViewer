@@ -5,7 +5,7 @@ updates:
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "hourly"
     commit-message:
       prefix: "Beep Bop"
       include: "scope"
