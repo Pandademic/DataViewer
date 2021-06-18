@@ -19,7 +19,7 @@ ____
 - Turtle
 - NumPy
 - pandas
-- [AppJar](https://github.com/jarvisteach/appJar)
+- Tkinter
 - Statistics
 - random
 - os
