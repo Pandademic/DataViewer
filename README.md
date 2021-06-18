@@ -6,37 +6,39 @@
 <img src="https://www.travis-ci.com/Pandademic/DataViewer.svg?branch=main"></img>
 <img src="https://img.shields.io/badge/Works-yes-green"></img>
 _____
-##  what is Data viewer
-data viewer is a open source data editor and viewer.
+##  What is Data viewer?
+Data viewer is an open source data editor and viewer.
 ## Data viewer functions
-- sorting
-- editing
-- listing
+- Sorting
+- Editing
+- Listing
 
-## what are the dependenices?
+## What are the dependencies?
 ____
-### Data viewer uses These Python Libaries:
+### Data viewer uses these Python libraries:
 - Turtle
-- numpy
+- NumPy
 - pandas
-- [AppJar](https://github.com/jarvisteach/appJar)
-- statistics
+- Tkinter
+- Statistics
 - random
 - os
 - sys
-- matplotlib
+- Matplotlib
 ## Installing Dataviewer
 ____
-Download the main.py file and run it.YOU MUST HAVE PYTHON INSTALLED
+Download the main.py file and run it. **YOU MUST HAVE PYTHON INSTALLED.**
 
 ## What are we working on
 _____
-Moving the app into Tkinter.
+Adding generated data into the results page of the app.
 ## NOTES
 ___
-It is untetested on MacOS.Its possible It works as of the removal of Klink.99% it does
+It is untested on MacOS. It's possible that it works as of the removal of Klink. 99% it does.
+We have migrated to Tkinter.
 ## Credits
 ___
 - @pandademic
 - @SmurfyDurfy
 - @rohangrge (Rohan George)
+- @XCyberWarpX

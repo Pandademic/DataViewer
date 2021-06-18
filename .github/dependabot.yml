@@ -1,13 +1,13 @@
 # Validator: https://dependabot.com/docs/config-file-beta/validator/
 version: 2
 updates:
-  # node packages
+  # pip packages
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     commit-message:
-      prefix: "chore"
+      prefix: "Beep Bop"
       include: "scope"
     # set this to 0 to disable updates
     open-pull-requests-limit: 10
