@@ -1,0 +1,8 @@
+Nightly: True
+Github: True
+Stable:  False
+Enabled: False
+Theme : "Default"
+Warnings:
+  - "1:This is unstable"
+key: "PotatoBannanaAppleXD"
