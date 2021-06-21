@@ -19,9 +19,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
-      - uses: marvinpinto/action-automatic-releases@v1.2.1
-      - with:     
+     - name: "RELEASE"
+       uses: marvinpinto/action-automatic-releases@v1.2.1
+       with:     
               repo_token: ${{ secrets.GITHUB_TOKEN }}
     # Release title (for automatic releases)
               title: "Nightly Dev Build"
