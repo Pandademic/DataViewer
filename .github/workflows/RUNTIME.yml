@@ -1,0 +1,32 @@
+name: Runtime test
+on:
+
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+
+  workflow_dispatch:
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+      - uses: actions/checkout@v2
+
+      - name: Staring Run
+        run: echo Running......
+
+
+      - name: TESTING
+        run: |
+          echo Starting Test
+          echo TEST:FINISHED
+      - name: FINISHEd
+        run: echo FINISHED
