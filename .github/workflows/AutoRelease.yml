@@ -24,6 +24,6 @@ jobs:
        with:     
               repo_token: ${{ secrets.GITHUB_TOKEN }}
     # Release title (for automatic releases)
-              title: "Nightly Dev Build"
+              title: "Nightly Dev Build[UNSTABLE]"
               automatic_release_tag: "latest"
 
