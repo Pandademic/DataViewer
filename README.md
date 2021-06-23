@@ -3,8 +3,8 @@
 <img src="https://img.shields.io/github/workflow/status/Pandademic/DataViewer/CodeQL"></img>
 <img src="https://img.shields.io/github/last-commit/Pandademic/DataViewer"></img>
 <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/Pandademic/DataViewer/main"></img>
-<img src="https://www.travis-ci.com/Pandademic/DataViewer.svg?branch=main"></img>
-<img src="https://img.shields.io/badge/Works-yes-green"></img>
+
+
 _____
 ##  What is Data viewer?
 Data viewer is an open source data editor and viewer.
