@@ -34,6 +34,7 @@ ttk.Label(tab1, text=yaml.safe_load(SettingsFile)).grid(column=0, row=0, padx=30
 ttk.Label(tab3, text=yaml.safe_load(ProjectFile)).grid(column=0, row=0, padx=30, pady=30)
 ttk.Label(tab2, text="Filename:").grid(column=0, row=0, padx=30, pady=30)
 ttk.Entry(tab2).grid(column=0,row=0,padx=30,pady=30)
+#TODO:@SmurfyDurfy start writing docs for a help page.
 
 root.mainloop() 
 
