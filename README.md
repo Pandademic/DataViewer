@@ -34,11 +34,16 @@ _____
 Adding generated data into the results page of the app.
 ## NOTES
 ___
-It is untested on MacOS. It's possible that it works as of the removal of Klink. 99% it does.
-We have migrated to Tkinter.
+- It is untested on MacOS. It's possible that it works as of the removal of Klink. 99% it does.
+- We have migrated to Tkinter.
+-  It seems to work on ChromeOS
 ## Credits
 ___
 - @pandademic
 - @SmurfyDurfy
 - @rohangrge (Rohan George)
 - @XCyberWarpX 
+
+## LICENCE
+____
+GNU 3.0
