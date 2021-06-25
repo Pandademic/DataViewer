@@ -1,0 +1,7 @@
+# To download Data viewer you need to:
+- 1) download the latest stable or nightly release. We would recommend Stable.
+- 2) Make sure you have python installed with   python --version  In Powershell 
+- 3) run > cd c://You/Your/Data/Viewer/Path
+- 4) run pip install -r requirements.txt
+- 5) run > python main.py
+- 6) you should be good to go 
