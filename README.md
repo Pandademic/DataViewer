@@ -1,10 +1,4 @@
 # Data viewer
-<img src="https://img.shields.io/github/contributors/Pandademic/DataViewer"></img>
-<img src="https://img.shields.io/github/workflow/status/Pandademic/DataViewer/CodeQL"></img>
-<img src="https://img.shields.io/github/last-commit/Pandademic/DataViewer"></img>
-<img src="https://travis-ci.com/Pandademic/DataViewer.svg?branch=main">
-
-
 
 _____
 ##  What is Data viewer?
