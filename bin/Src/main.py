@@ -5,6 +5,7 @@ import tkinter as tk
 from tkinter import *
 from tkinter import ttk
 import matplotlib as plt
+#TODO:add OS
 #SettingsFile=open("settings.yml",'r')
 ProjectFile=open("project.yml",'r')
 #Functions
